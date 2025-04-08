@@ -1,7 +1,7 @@
 #Tatjana Grencione
 
 #1 Bortkevičs Gustavs
-
+2-1 =1 
 #2 Briģis Roberts
 
 #3 Ceriņš Jānis
