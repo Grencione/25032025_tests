@@ -11,4 +11,4 @@
 #5 Lisovskis Ričards
 26047*0
 #6 Līberts Emīls
-
+5-1 =4
