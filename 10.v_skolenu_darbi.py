@@ -9,6 +9,6 @@
 #4 Junkers Krišjānis
 2+2 = 4
 #5 Lisovskis Ričards
-
+26047*0
 #6 Līberts Emīls
 
